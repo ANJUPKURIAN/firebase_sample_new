@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "227967740821",
+    "project_id": "samplework-795f4",
+    "storage_bucket": "samplework-795f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227967740821:android:b1280f01033287a4e4a49c",
+        "android_client_info": {
+          "package_name": "com.luminar.sampleworkjan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3iHLIvZ1WRdy93wm62UOgniqsc68osnM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
